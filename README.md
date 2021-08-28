@@ -1,7 +1,7 @@
 # 病毒存储库
 你好！这里是我视频中的病毒存储的地方，如果你想下载，可以从这里下载。
 
-由于网络问题(无法访问Github)，下载文件时请使用[Gitee](https://gitee.com/cronik/VirusDatabase) 下载。
+由于网络问题(无法访问Github)，下载文件时请使用[Gitee](https://gitee.com/cronik/VirusDatabase)下载。
 ### 注意
 该库中的病毒**非常危险**（除了后缀带-Clean的文件），如果你想测试，请使用虚拟机的网页浏览器下载。所有的压缩包密码是：**virus**，如果解压密码出现错误，请通过Issues反馈，谢谢。
 
